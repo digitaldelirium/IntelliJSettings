@@ -1,0 +1,5 @@
+<code_scheme name="Default">
+  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+  <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+  <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
+</code_scheme>
