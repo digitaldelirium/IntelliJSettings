@@ -1,0 +1,10 @@
+<application>
+  <component name="HDInsightSettings">
+    <option name="properties">
+      <map>
+        <entry key="com.microsoft.azure.hdinsight.intellij.PluginVersion" value="1.0.0" />
+        <entry key="com.microsoft.azure.hdinsight.telemetry.flag" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
